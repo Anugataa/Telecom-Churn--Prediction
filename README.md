@@ -1,0 +1,2 @@
+# Telecom-Churn--Prediction
+The customers of "Telecom Industry" are free to select from multiple service providers and actively switch from one operator to another. The industry is highly competitive and faces around 15-25% of churning per year in average. Retaining existing customers is much more important than acquiring new customers as it costs around 5-10 times more to acquire one new customer. So, retaining high profitable customers is the first priority for telecom operators.
