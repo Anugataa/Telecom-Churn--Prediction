@@ -25,7 +25,7 @@ Here, we are dealing with the "Usage Based Churn" type.
 
 **High Value Churn**: In the Indian and the Southeast Asian market, approximately 80% of revenue comes from the top 20% customers (called high-value customers). Thus, if we can reduce churn of the high-value customers, we will be able to reduce significant revenue leakage.
 
-**Customer Behaviour**:
+### Customer Behaviour:
 Customers usually decide to switch to another competitor over a period of time (this is especially applicable to high-value customers) and not instantly.
 
 There are three phases of customer lifecycle :
@@ -38,16 +38,16 @@ The **‘churn’** phase: In this phase, the customer is said to have already c
 
 In this case, since we are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
 
-## Step By Step Approach:
-Import essential libraries
-Data Understanding
-Filtering High Value Customers
-Data Cleaning
-Handling Missing value and Feature Engineering
-Derive new features
-Data Visualization
-Dimension Reduction using PCA
-RFE
-Model Building
-Model Evaluation
-Conclusion
+### Step By Step Approach:
+- Import essential libraries
+- Data Understanding
+- Filtering High Value Customers
+- Data Cleaning
+- Handling Missing value and Feature Engineering
+- Derive new features
+- Data Visualization
+- Dimension Reduction using PCA
+- RFE
+- Model Building
+- Model Evaluation
+- Conclusion
