@@ -12,6 +12,7 @@ Prepaid is the most common model in India and Southeast Asia, while postpaid is 
 
 pay a monthly/annual bill after using the services
 when customers want to switch to another operator, they usually inform the existing operator to terminate the services, and you directly know that this is an instance of churn.
+
 **Prepaid customer**
 
 pay/recharge with a certain amount in advance and then use the services
